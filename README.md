@@ -1,4 +1,4 @@
-# Repo Template
+# Artifactual Intelligence
 
 
 ## Abstract

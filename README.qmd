@@ -1,5 +1,5 @@
 ---
-title: "Repo Template"
+title: "Artifactual Intelligence"
 format: gfm
 ---
 
