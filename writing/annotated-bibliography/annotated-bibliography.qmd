@@ -1,0 +1,76 @@
+---
+title: "Annotated Bibliography: Artifactual Intelligence"
+author:
+  - name: Tyler J. Brough
+    affiliations:
+      - name: Utah State University 
+  - name: Marc R. Dotson
+    affiliations:
+      - name: Utah State University 
+format: pdf
+bibliography: references.bib
+---
+
+
+# Annotated Bibliography
+
+**[@Buchanan1979]**: Buchanan's very important book on methodology. 
+
+- Chapter 5 titled *Natural and Artifactual Man* is im large measure the inspiration for out title of
+  *Artifactual Intelligence*.
+- The last chapter titled *Retrospect and Prospect* has some wonderful nuggets of pure wisdom. 
+
+**[@HarperJIE2010]**: Examines numbers as technological objects constituted by both form 
+and function, analyzing their role in economic systems. Argues that number sequences 
+require both proper internal structure and external social network adoption to 
+function effectively.
+
+- Numerical toolkits are economic capital/economic institutions.
+- It's not difficult to imagine how to extend this to computing machines. 
+- Cites as epigraph the wonderful Mises quote on *economic calculation* as foundational. It is tantalizing
+  to consider this quotation in our modern age of Big Data and AI/ML!
+
+**[@HarperJBioEcn2008]**: Studies the biological and economic factors in the development 
+of numerical cognition and calculation. Emphasizes how scarcity and economic needs drove 
+the development of numerical tools and quantification abilities. The paper bridges 
+evolutionary biology and institutional economics to explain the co-evolution of human 
+numerical abilities and economic systems.
+
+**[@HayekEconomica1937]**: A foundational paper examining the relationship between subjective 
+knowledge and economic coordination. Hayek argues that the key economic problem facing 
+society is how dispersed knowledge gets used in decentralized decision-making. This work 
+laid the groundwork for later developments in Austrian economics regarding knowledge 
+and social coordination.
+
+**[@HayekAER1945]**: This seminal work explores how the price system enables the use 
+of dispersed knowledge in society. Hayek emphasizes prices' role in communicating 
+information and coordinating decentralized decision-making. The paper demonstrates 
+why central planning faces insurmountable knowledge problems that markets can solve 
+through the price mechanism.
+
+**[@HighQJAE2009]**: Extends Menger's theory of institutional emergence to 
+explain how social institutions like division of labor, monetary calculation, and 
+property rights emerge through entrepreneurial processes rather than central planning. 
+High shows how these institutions arise from individual entrepreneurial actions while 
+producing unintended social benefits.
+
+- Combined with @HarperJIE2010, this paper provides the framework for the institutional development
+  of *human augmentative* and *intelligent infrastructure* systems (following Jordan) that we are
+  arguing make up *artifactual intelligence*.
+
+**[@HorwitzRSE1992]**: Analyzes money as a communication medium analogous to but 
+distinct from language. Horwitz demonstrates how monetary exchange enables social 
+coordination beyond linguistic limits by communicating economic knowledge through 
+prices. The paper connects Austrian economics with social theory to explain money's 
+role in complex economies.
+
+**[@HorwitzHOPE1998]**: Traces the roots of Mises's economic calculation argument 
+to his 1912 monetary theory. The paper demonstrates the centrality of monetary 
+calculation to market coordination and critique of central planning. Horwitz shows 
+the deep connection between Mises's monetary theory and his later critique of 
+socialist planning.
+
+\newpage
+
+# References 
+
