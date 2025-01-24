@@ -70,6 +70,9 @@ calculation to market coordination and critique of central planning. Horwitz sho
 the deep connection between Mises's monetary theory and his later critique of 
 socialist planning.
 
+**[@JordanHDSR2019]**: Argues that much of what is labeled as "artificial intelligence" today is actually machine learning operating within specific domains, and that the revolution in human-imitative AI has not yet occurred. Proposes reframing technological development around "Intelligence Infrastructure" (II) - systems that make human environments more supportive and safe while handling uncertainty and distributed decision-making. Emphasizes the need for a new engineering discipline focused on building reliable intelligent systems, drawing parallels to how fields like civil and chemical engineering emerged. Contends that this engineering approach must integrate economic thinking about markets and incentives while focusing on enhancing rather than replacing human capabilities.
+
+
 \newpage
 
 # References 
