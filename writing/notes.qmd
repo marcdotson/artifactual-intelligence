@@ -1,0 +1,23 @@
+---
+title: "Notes"
+format: gfm
+---
+
+We're constructing a critique of both frequentist statistics and neo-classical economics. The availability of computation allows for simulation and a "restoration" of both Bayesian statistics and _____ economics.
+
+- "The World is Ruled by Little Else"
+- What is the relationship between constructivism and the artifactual argument?
+- What is the relationship with institutional economics?
+
+Historical, operationalized.
+
+## posit::conf(2025)
+
+Artifactual Intelligence: The Place and Promise of AI, Computational Tools as Decision Theoretic Capital, A Unifying Computational Perspective, and the Epistemological Revolution
+
+- Who are we?
+- Why is this important?
+- What's the takeaway?
+
+Artificial intelligence has seen a substantial increase in attention. However, the advances in and implications of artificial intelligence, broadly defined, are generally not well understood by its practitioners or the public. In this talk we provide a unifying perspective on artificial intelligence rooted in the history of epistemology. This perspective allows us to see AI for what it is -- not artificial, but *artifactual* -- and how it might be used to realize an epistemological revolution from economic calculation to probabilistic machine learning.
+
