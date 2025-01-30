@@ -3,13 +3,18 @@
 
 ## Abstract
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+Artificial intelligence has seen a resurgence in the public’s attention
+thanks to innovations in large language models (LLMs). While every
+technological innovation comes with its own well-studied lifecycle from
+hype to normalcy, LLMs particular flavor of *narrow* artificial
+intelligence seems different. To an extent that may well be unique among
+technologies, today’s artificial intelligence is not understood – even
+by those who create it. In this paper we provide a perspective on
+artificial intelligence rooted in the history of humanity’s efforts to
+understand the world around them, from economic calculation to
+probabilistic machine learning. This perspective allows us to see what
+AI really is – not artifical, but *artifactual* – and how it might
+enable an epistemological revolution.
 
 ## Project Organization
 
