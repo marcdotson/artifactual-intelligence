@@ -73,6 +73,8 @@ socialist planning.
 **[@JordanHDSR2019]**: Argues that much of what is labeled as "artificial intelligence" today is actually machine learning operating within specific domains, and that the revolution in human-imitative AI has not yet occurred. Proposes reframing technological development around "Intelligence Infrastructure" (II) - systems that make human environments more supportive and safe while handling uncertainty and distributed decision-making. Emphasizes the need for a new engineering discipline focused on building reliable intelligent systems, drawing parallels to how fields like civil and chemical engineering emerged. Contends that this engineering approach must integrate economic thinking about markets and incentives while focusing on enhancing rather than replacing human capabilities.
 
 
+**[@LachmannJEL1976]**: Traces the intellectual links between Ludwig von Mises's theory of monetary calculation and G.L.S. Shackle's view of the economy as a kaleidic society characterized by perpetual change and uncertainty. Shows how both theorists emphasized the role of economic calculation in helping actors navigate an uncertain future, while recognizing that such calculation can never achieve perfect coordination due to continuous change in knowledge and expectations. Advances Austrian business cycle theory by arguing that asset markets in particular exhibit inherent volatility that prevents the economic system from reaching long-run equilibrium. Shows how Austrian economics provides tools for understanding a world of permanent knowledge problems and divergent expectations.
+
 \newpage
 
 # References 

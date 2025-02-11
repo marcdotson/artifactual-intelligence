@@ -1,0 +1,26 @@
+---
+title: "Artifactual Intelligence: Epigraphical Quotes"
+author:
+  - name: Tyler J. Brough
+    affiliations:
+      - name: Utah State University 
+  - name: Marc R. Dotson
+    affiliations:
+      - name: Utah State University 
+format: pdf
+bibliography: references.bib
+---
+
+
+# Epigraphical Quotes 
+
+**[@AbelsonSussmanSussman]** 
+
+<br>
+
+**[@Mises2007d]**
+
+\newpage
+
+# References 
+
