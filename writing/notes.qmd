@@ -21,7 +21,7 @@ Artificial intelligence has seen a substantial increase in attention. However, t
 
 - Mises provides a (narrative) foundation for "economic calculation" with valuation and appraisement
 - Hayek adds to this by arguing for a bottom-up consideration of equilibrium with the knowledge and coordination problem
-- de Finneti provides a foundation for subjective probability and an anlytical form of Mises and Hayek's ideas
+- de Finneti provides a foundation for subjective probability and an operationlization of Mises and Hayek's ideas along with the concepts of coherence and callibration
 - Combining Mises and Hayek with de Finneti gets us a fully subjective form of Austrian economic calculation
 
 Bayesian decision theory in the cattalaxy.

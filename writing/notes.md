@@ -34,7 +34,8 @@ probabilistic machine learning and decision theory.
 - Hayek adds to this by arguing for a bottom-up consideration of
   equilibrium with the knowledge and coordination problem
 - de Finneti provides a foundation for subjective probability and an
-  anlytical form of Mises and Hayek’s ideas
+  operationlization of Mises and Hayek’s ideas along with the concepts
+  of coherence and callibration
 - Combining Mises and Hayek with de Finneti gets us a fully subjective
   form of Austrian economic calculation
 
